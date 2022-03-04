@@ -1,4 +1,4 @@
-lion red
+lion new
 tiger
 leopard
 turtle
